@@ -2,8 +2,8 @@
   "name": "Madhawam Bot",
   "description": "Madhawam, bot.",
   "keywords": ["Madhawam", "bot", "express"],
-  "website": "https://estherbot.com",
-  "repository": "https://github.com/esthercrawford/smooch-bot-example",
+  "website": "https://bot.com",
+  "repository": "https://github.com/Madhawam95/MadhawamBot",
   "logo": "https://telegram.org/file/811140245/2/vvovUc60EGI/cb239d5532b7de6ffc",
   "env": {
     "SMOOCH_APP_TOKEN": {
