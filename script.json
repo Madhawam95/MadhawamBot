@@ -1,5 +1,7 @@
 {
-    "HI": "Hello there!\nI’m the personal bot of Madhawam Agrawal, a student of NIIT University.\n![madhawam](https://raw.githubusercontent.com/Madhawam95/MadhawamBot/master/img/IMAG1045.jpg)\nWant to know more about Madhawam?",
+    "HI": "Hello there!\nI’m the personal bot of Madhawam Agrawal.\n![madhawam](https://raw.githubusercontent.com/Madhawam95/MadhawamBot/master/img/IMAG1045.jpg)\nWant to know more about Madhawam? %[Sure! Tell Me](postback:yes) %[Nah! Not Right Now](postback:no)",
+    "YES": "What would you like to know about him? %[Childhood]() %[Education]() %[Skills]() %[Hobbies]()",
+    "NO": "",
     "xD": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
