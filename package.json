@@ -1,7 +1,7 @@
 {
-  "name": "Madhawam Bot",
+  "name": "smooch-bot-example",
   "version": "1.0.0",
-  "description": "Madhawam Bot App",
+  "description": "Smooch Bot Example Apps",
   "author": "Andrew Lavers <alavers@system42.net> (http://smooch.io/)",
   "scripts": {
     "start": "node heroku"
