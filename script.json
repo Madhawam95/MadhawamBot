@@ -1,10 +1,20 @@
 {
     "HI": "Hello there!\nI’m the personal bot of Madhawam Agrawal.\n![madhawam](https://raw.githubusercontent.com/Madhawam95/MadhawamBot/master/img/IMAG1045.jpg)\nWant to know more about Madhawam? %[Sure! Tell Me](postback:yes) %[Nah! Not Right Now](postback:no)",
-    "SURE! TELL ME": "What would you like to know about him? %[Childhood]() %[Education]() %[Skills]() %[Hobbies]()",
-    "Nah! Not Right Now": "",
-    "xD": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "SURE! TELL ME": "What would you like to know about him? %[Childhood](postback:childhood) %[Education](postback:studies) %[Skills](postback:skills) %[Hobbies](postback:hobbies) %[Projects](postback:projects) %[Resume(pdf)](postback:pdf_resume)",
+    "NAH! NOT RIGHT NOW": "Oh! Okay, cool. You can always come back and say HI to get started.\n[chris_evans_gif](https://raw.githubusercontent.com/Madhawam95/MadhawamBot/master/img/tumblr_newrrosWRD1r1guvio2_500.gif)\nWanna know more about BOTS? %[Bots](postback:Bots)",
+    "BOTS":"Great! Open web advocate, Chris Messina tells you more [read_article](https://medium.com/chris-messina/2016-will-be-the-year-of-conversational-commerce-1586e85e3991#.toes5yfo1)",
+    "CHILDHOOD": "Growing up with his brother in the Dhanbad district he had a pretty awesome childhood. In his early years he has had the previlage of growing up in a joint family.\n[childhood_pokemon](https://raw.githubusercontent.com/Madhawam95/MadhawamBot/master/img/img_1301.jpg)\n[That's pretty cool](postback:cool_childhood)",
+    "THAT'S PRETTY COOL": "I know right! Thanks.\nIf you wanna know about something else just say DONE anytime.",
+    "EDUCATION": "His school days were spent in Dhanbad Public School. Then he joined NIIT University for his graduation. He presently is in the final year of his B.Tech degree in Computer Science Engineering.\nYou can find his grades in the RESUME(PDF).\nIf you wanna know about something else just say DONE anytime.",
+    "SKILLS": "He has always been passionate about computers and therefore decided to learn programming languages such as C and Java which helped him in app development using Android Studio and also collaborating with others through platforms such as GitHub. He is also proficient in designing using Adobe designing tools such as Ai,Ps,Fl and Pr.\nHe believes that anything which can save a portion of people's time has a great scope in today's world.\n[thumbs_up_gif](https://raw.githubusercontent.com/Madhawam95/MadhawamBot/master/img/giphy.gif)\nIf you wanna know about something else just say DONE anytime.",
+    "HOBBIES": "Ah! Madhawam sure loves spending his leisure time gaming and binge watching t.v shows.\n[lazy_homer_gif](https://raw.githubusercontent.com/Madhawam95/MadhawamBot/master/img/FV644px.gif)\nBut he always has had a strong internal drive to succeed and make his own way in the world and therefore likes spending time working on PROJECTS and SIDE PROJECTS.",
+    "PROJECTS": "He Has done numerous projects under different courses in the University. Let me list some of them for you\n> R&D on “Integration of Smart Grid in India”.\n>Creating a spam filter as a project under the course Information Retrieval.\n>Presentation on Congestion in Wireless Networks-MAC Protocol.\n>Detailed presentation on the OSI Model.\n>Made a detailed presentation about Oligopoly and price determination under oligopoly.\n>Paper on “Human Rights & Prison Conditions”.\n>Implementation of a dictionary using a binary tree.\nIf you wanna know about something else just say DONE anytime.",
+    "SIDE PROJECTS": "You can call *me* one of his side projects... \n>Volunteer for Drone designing workshop by At-Lead.\n>Member of the college theater club. Participant in multiple college plays. \n>Designing the app logo for an application “Bar Talk”(it isn't up on the playstore yet but you can say LOGO to see it).\nIf you wanna know about something else just say DONE anytime.",
+    "LOGO": "[bar_talk_logo](https://raw.githubusercontent.com/Madhawam95/MadhawamBot/img/BT.jpg)\nIf you wanna know about something else just say DONE anytime.",
+    "RESUME(PDF)": "Here's the pdf version of his resume[resume_pdf](https://raw.githubusercontent.com/Madhawam95/MadhawamBot/img/Madhawam_Agrawal_Resume[7-7-16].pdf)\nIf you wanna know about something else just say DONE anytime.",
+    "WORK STATUS": "If you've got an interesting opportunity he's open to hearing about it. Contact him at madhwam.agrawal@gmail.com(no there is no typing error.Please enter the e-mail carefully)\nIf you wanna know about something else just say DONE anytime.",
+    "DONE": "Ok cool.\nHere's a bunch of other stuff I can tell you about him.\n%[Childhood](postback:childhood) %[Education](postback:studies) %[Skills](postback:skills) %[Hobbies](postback:hobbies) %[Projects](postback:projects) %[Resume(pdf)](postback:pdf_resume)",
+    "I LOVE YOU": "DAAAAAAAYUMN! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, MadhawamBot is back."
 }
